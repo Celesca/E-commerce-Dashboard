@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@500&display=swap');
+
+* {
+    font-family: 'Kanit', sans-serif;
+}
+
+.plus-merchandise {
+    font-family: 'Mitr', sans-serif;
+}
+
+.inventory-container {
+    margin-top: -20px;
+}
+
+.inventory-container h1 {
+    font-size: 26px;
+    color: black;
+}
+
+.header {
+    border-bottom: 3px solid orange;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+/* Section for Inventory Data */
+.In {
+    color: green;
+    background-color: rgb(124, 209, 124);
+}
+
+.Low {
+    color: rgb(255, 166, 0);
+    background-color: yellow;
+}
+
+.Out {
+    color: red;
+    background-color: rgb(255, 176, 176);
+}
+
+.stock , .Stock {
+    border-radius: 15px;
+    padding: 0 10px;
+}

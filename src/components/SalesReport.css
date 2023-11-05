@@ -1,0 +1,12 @@
+.search-container {
+    margin-top: -20px;
+}
+
+.search-container h1 {
+    font-size: 26px;
+    color: black;
+}
+
+.header {
+    border-bottom: 3px solid orange;
+}

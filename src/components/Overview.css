@@ -1,0 +1,76 @@
+.DaySalesText {
+    font-size: 26px;
+    color: black;
+
+}
+
+.DaySalesText span {
+    border-bottom: 3px solid orange;
+}
+
+.overview-container {
+    margin-top: -30px;
+}
+
+.total-sales {
+    display: flex;
+}
+
+.total-sales-text {
+    width: 170%;
+}
+
+.total-sales-text h2 {
+    font-size: 20px;
+    color: black;
+}
+
+.total-sales-text span {
+    font-size: 14px;
+}
+
+.total-sales-text.plus span {
+    color: rgb(144, 229, 16);
+}
+
+.total-sales-text.minus span {
+    color: red;
+}
+
+.total-sales-text p {
+    font-size: 18px;
+}
+
+
+.total-sales-icon {
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.graph-text {
+    color: rgb(144, 229, 16);
+}
+
+.graph-icon {
+    color: blue;
+}
+
+.user-icon {
+    color: #46C2C2;
+}
+
+.small-report {
+    margin-top: 40px;
+}
+
+.wrapper {
+    height: 400px !important;
+}
+
+@media only screen and (max-width:1200px){
+    .wrapper {
+        height: 400px !important;
+    }
+}
