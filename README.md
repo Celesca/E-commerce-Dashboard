@@ -6,6 +6,8 @@ Greetings and welcome everyone.
 E-commerce Dashboard is the Front-end project that shows the designed dashboard of E-commerce website.
 The project was created using React, MUI and Chart.js
 
+## Demo : https://celesca.vercel.app/
+
 ## Components / Pages
 
 - Overview
