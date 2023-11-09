@@ -1,6 +1,10 @@
 # E-commerce Dashboard Web application
 
-### E-commerce Dashboard is the Front-end project that shows the designed dashboard of E-commerce website.
+![E-commerce Dashboard](https://github.com/Celesca/Celesca/blob/main/Project%20Picture/dashboard.PNG)
+
+Greetings and welcome everyone. 
+E-commerce Dashboard is the Front-end project that shows the designed dashboard of E-commerce website.
+The project was created using React, MUI and Chart.js
 
 ## Components / Pages
 
@@ -10,7 +14,7 @@
 - Customer
 
 
-## Technical Stack
+## Tech Stack
 
 - React
 - MUI
